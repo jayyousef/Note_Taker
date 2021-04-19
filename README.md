@@ -1,6 +1,11 @@
 # Note Taker
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[Link to Live Application](https://afternoon-lake-23810.herokuapp.com/)
+
+![Image of Main Page](./assets/note-taker-demo.png)
+![Image 2 of Main Page](./assets/note-taker-demo2.png)
+
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
@@ -40,6 +45,7 @@ This app will help the end user have a space where they can stores their notes s
 
 ## Usage
 After installing the project, make sure to navigate to the correct directory and run “npm init -y” and then “npm install” After you’ve got the project ready, simply run “node index.js” or “node .” 
+
 
 
 ## License 
